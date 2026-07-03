@@ -10,10 +10,6 @@
 			"nodeGypDependencies": true,
 			"version": "22"
 		}
-	,
-        "ghcr.io/devcontainers/features/sshd:1": {
-        "version": "latest"
-    }
     },
 	"customizations": {
 		"vscode": {
